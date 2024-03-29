@@ -95,7 +95,7 @@ function AboutSection() {
                 <span className="text-gray-400">{`'`}</span>
                 <span className="text-amber-300">In a world of 0s and 1s</span>
                 <span className="text-gray-400">{`,`}</span>
-                <span className="text-amber-300"> I'm the 1 who can solve problems.</span>
+                <span className="text-amber-300"> I am the 1 who can solve problems.</span>
                 <span className="text-gray-400">{`'`}</span>
               </div>
               <div>
