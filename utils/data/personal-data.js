@@ -1,17 +1,17 @@
 export const personalData = {
-  name: "ABU SAID",
+  name: "Andrew Martinez",
   profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
+  designation: "Software Engineer",
+  description: "I'm Andrew Martinez, a dynamic and dedicated software engineer deeply engaged in the ever-evolving world of web development.My journey in programming is driven by an insatiable curiosity and a self-motivated approach to learning.With a particular affinity for JavaScript, I excel in leveraging its capabilities to craft seamless and innovative web applications.My passion lies in both the depth and breadth of web technologies, striving to contribute to a more connected and accessible digital world.Beyond just coding, I thrive on solving complex challenges and transforming ideas into reality. Currently,I am exploring opportunities where my skills and passions can be aligned and where I can make a significant impact in advancing web technologies and user experiences.",
+  email: 'andrewmartinez3671@gmail.com',
+  phone: '+1 210 591 7670',
+  address: 'Gilroy, California, United States - 95020 ',
+  github: 'https://github.com/CrytoCodeWizard',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/19na9EgGHXUBma4hNGqqthdTVZ0A6sfdX/view?usp=sharing"
 }

@@ -72,6 +72,9 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import webex from '/public/svg/skills/webex.svg';
+import ubuntu from '/public/svg/skills/ubuntu.svg';
+import nodejs from '/public/svg/skills/nodejs.svg';
 
 
 export const skillsImage = (skill) => {
@@ -95,7 +98,7 @@ export const skillsImage = (skill) => {
       return css;
     case 'angular':
       return angular;
-    case 'javascript':
+    case 'js':
       return javascript;
     case 'next js':
       return nextJS;
@@ -157,7 +160,7 @@ export const skillsImage = (skill) => {
       return ruby;
     case 'swift':
       return swift;
-    case 'adobe audition':
+    case 'adobea':
       return adobeaudition;
     case 'aws':
       return aws;
@@ -183,7 +186,7 @@ export const skillsImage = (skill) => {
       return numpy;
     case 'opencv':
       return opencv;
-    case 'premiere pro':
+    case 'premiere':
       return premierepro;
     case 'pytorch':
       return pytorch;
@@ -225,6 +228,12 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
+    case 'webex':
+      return webex;
+    case 'ubuntu':
+      return ubuntu;
+    case 'node js':
+      return nodejs;
     default:
       break;
   }
