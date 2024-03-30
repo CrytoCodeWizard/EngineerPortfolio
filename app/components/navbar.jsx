@@ -11,7 +11,7 @@ function Navbar() {
   };
 
   return (
-    <nav className="lg:bg-gradient-to-r lg:from-transparent lg:via-violet-900 lg:to-transparent sticky top-0 z-[1000] w-full">
+    <nav className="lg:bg-gradient-to-r lg:from-transparent lg:via-violet-950 lg:to-transparent sticky top-0 z-[1000] w-full">
       <div className="flex items-center justify-between py-4">
         <div className="flex flex-shrink-0 items-center">
           <Link
